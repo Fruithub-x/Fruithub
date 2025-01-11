@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fruithub-x/Fruithub/refs/heads/main/Bloxfruitsv2",true))()
